@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/ndiambieiris/table_.git/static/js/main.bdc50a7d.js",
-    "index.html": "/ndiambieiris/table_.git/index.html",
-    "main.bdc50a7d.js.map": "/ndiambieiris/table_.git/static/js/main.bdc50a7d.js.map"
+    "main.js": "/static/js/main.bdc50a7d.js",
+    "index.html": "/index.html",
+    "main.bdc50a7d.js.map": "/static/js/main.bdc50a7d.js.map"
   },
   "entrypoints": [
     "static/js/main.bdc50a7d.js"
